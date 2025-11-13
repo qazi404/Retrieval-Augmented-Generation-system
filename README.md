@@ -145,6 +145,7 @@ Endpoint	Function
 /report_fields	Fetches claim/client data from Airtable API.
 
 🧮 Key AI Model Summary
+
 Model	Type	Use Case
 gpt-4.1	LLM	Generate professional engineering report sections
 gpt-4o-mini	LLM	Caption rewriting/enhancement
