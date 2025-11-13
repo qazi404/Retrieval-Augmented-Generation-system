@@ -1,0 +1,12 @@
+chromadb
+fastapi 
+uvicorn 
+sentence_transformers
+openai
+python-dotenv
+tiktoken
+PyMuPDF
+spacy
+python-multipart
+reportlab
+PyPDF2

@@ -1,0 +1,56 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.bin
+*.log
+*.tmp
+
+# ========================
+# Environment & Config
+# ========================
+.env
+.env.local
+.env.production
+.env.development
+
+# ========================
+# Databases
+# ========================
+*.db
+
+# ========================
+# Generated / Output Data
+# ========================
+generated_reports/
+canned_reports/
+output_template/
+uploads/
+references/
+vectordatabase/
+vector_database/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+env/
+ENV/
+
+# ========================
+# IDE & OS Specific Files
+# ========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ========================
+# Miscellaneous
+# ========================
+*.bak
+*.swp
